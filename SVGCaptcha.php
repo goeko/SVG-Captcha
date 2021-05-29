@@ -104,7 +104,7 @@ EOD;
     const HARD = 3;
 
     // The answer to the generated captcha.
-    private $captcha_answer = "";
+    private $captcha_answer =  array();
     
 
     /**
